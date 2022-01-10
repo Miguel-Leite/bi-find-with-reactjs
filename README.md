@@ -1,6 +1,6 @@
 # BUSCADOR DE DADOS DO BI 
 
-Buscador de dados do ni é um sistema que busca os dados do cidadão, consumindo o serviço da `identificação angolana`.
+Buscador de dados do bi é um sistema que busca os dados do cidadão, consumindo o serviço da `identificação angolana`.
 
 <hr />
 
